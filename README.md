@@ -113,7 +113,7 @@ Record the following in the Notes_Dealer_Analysis.txt file:
 <li>In the notes file of the Player_Dealer_Correlation directory, add a summary of your findings noting the player and dealer you believe are colluding to scam Lucky Duck.</li>
 <li>Make sure to document your specific reasons for this finding.</li></ul>
 <br>
-<b>Step 4: Scripting Your Tasks</b>b>
+<b>Step 4: Scripting Your Tasks</b>
 <br>
 You manager is impressed with the work you have done so far on the investigation.
 
